@@ -57,7 +57,53 @@ class UIConfigurator {
     }
 }
 
-public class HelloWorld {
+interface Button {
+	void render();
+}
+
+class ClassicUIButtonAddToGlossary implements Button {
+	@Override
+	public void render() {
+		System.out.println('ClassicUIButtonAddToGlossary');
+	}
+}
+
+class ClassicUIButtonFavorite implements Button {
+	@Override
+	public void render() {
+		System.out.println('ClassicUIButtonFavorite');
+	}
+}
+
+class ClassicUIButtonReaded implements Button {
+	@Override
+	public void render() {
+		System.out.println('ClassicUIButtonFavorite');
+	}
+}
+
+class DarkUIButtonAddToGlossary implements Button {
+	@Override
+	public void render() {
+		System.out.println('DarkUIButtonAddToGlossary');
+	}
+}
+
+class DarkUIButtonFavorite implements Button {
+	@Override
+	public void render() {
+		System.out.println('DarkUIButtonFavorite');
+	}
+}
+
+class DarkUIButtonReaded implements Button {
+	@Override
+	public void render() {
+		System.out.println('DarkUIButtonFavorite');
+	}
+}
+
+public class InterfaceUI {
     public static void main(String[] args) {
         UIConfigurator configurator = new UIConfigurator("dark");
         UIComponentFactory factory = configurator.getUIComponent();

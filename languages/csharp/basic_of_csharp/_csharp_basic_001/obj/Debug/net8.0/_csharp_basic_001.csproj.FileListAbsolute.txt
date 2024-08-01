@@ -1,0 +1,15 @@
+C:\Users\ericjanuzzi\Documents\Estudo\programacao\programming_foundations_exercises\languages\csharp\basic_of_csharp\_csharp_basic_001\bin\Debug\net8.0\_csharp_basic_001.exe
+C:\Users\ericjanuzzi\Documents\Estudo\programacao\programming_foundations_exercises\languages\csharp\basic_of_csharp\_csharp_basic_001\bin\Debug\net8.0\_csharp_basic_001.deps.json
+C:\Users\ericjanuzzi\Documents\Estudo\programacao\programming_foundations_exercises\languages\csharp\basic_of_csharp\_csharp_basic_001\bin\Debug\net8.0\_csharp_basic_001.runtimeconfig.json
+C:\Users\ericjanuzzi\Documents\Estudo\programacao\programming_foundations_exercises\languages\csharp\basic_of_csharp\_csharp_basic_001\bin\Debug\net8.0\_csharp_basic_001.dll
+C:\Users\ericjanuzzi\Documents\Estudo\programacao\programming_foundations_exercises\languages\csharp\basic_of_csharp\_csharp_basic_001\bin\Debug\net8.0\_csharp_basic_001.pdb
+C:\Users\ericjanuzzi\Documents\Estudo\programacao\programming_foundations_exercises\languages\csharp\basic_of_csharp\_csharp_basic_001\obj\Debug\net8.0\_csharp_basic_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericjanuzzi\Documents\Estudo\programacao\programming_foundations_exercises\languages\csharp\basic_of_csharp\_csharp_basic_001\obj\Debug\net8.0\_csharp_basic_001.AssemblyInfoInputs.cache
+C:\Users\ericjanuzzi\Documents\Estudo\programacao\programming_foundations_exercises\languages\csharp\basic_of_csharp\_csharp_basic_001\obj\Debug\net8.0\_csharp_basic_001.AssemblyInfo.cs
+C:\Users\ericjanuzzi\Documents\Estudo\programacao\programming_foundations_exercises\languages\csharp\basic_of_csharp\_csharp_basic_001\obj\Debug\net8.0\_csharp_basic_001.csproj.CoreCompileInputs.cache
+C:\Users\ericjanuzzi\Documents\Estudo\programacao\programming_foundations_exercises\languages\csharp\basic_of_csharp\_csharp_basic_001\obj\Debug\net8.0\_csharp_basic_001.sourcelink.json
+C:\Users\ericjanuzzi\Documents\Estudo\programacao\programming_foundations_exercises\languages\csharp\basic_of_csharp\_csharp_basic_001\obj\Debug\net8.0\_csharp_basic_001.dll
+C:\Users\ericjanuzzi\Documents\Estudo\programacao\programming_foundations_exercises\languages\csharp\basic_of_csharp\_csharp_basic_001\obj\Debug\net8.0\refint\_csharp_basic_001.dll
+C:\Users\ericjanuzzi\Documents\Estudo\programacao\programming_foundations_exercises\languages\csharp\basic_of_csharp\_csharp_basic_001\obj\Debug\net8.0\_csharp_basic_001.pdb
+C:\Users\ericjanuzzi\Documents\Estudo\programacao\programming_foundations_exercises\languages\csharp\basic_of_csharp\_csharp_basic_001\obj\Debug\net8.0\_csharp_basic_001.genruntimeconfig.cache
+C:\Users\ericjanuzzi\Documents\Estudo\programacao\programming_foundations_exercises\languages\csharp\basic_of_csharp\_csharp_basic_001\obj\Debug\net8.0\ref\_csharp_basic_001.dll

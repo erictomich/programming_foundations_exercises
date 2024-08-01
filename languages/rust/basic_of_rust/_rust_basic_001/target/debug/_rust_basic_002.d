@@ -1,0 +1,1 @@
+C:\Users\ericjanuzzi\Documents\Estudo\programacao\programming_foundations_exercises\languages\rust\basic_of_rust\_rust_basic_001\target\debug\_rust_basic_002.exe: C:\Users\ericjanuzzi\Documents\Estudo\programacao\programming_foundations_exercises\languages\rust\basic_of_rust\_rust_basic_001\src\main.rs

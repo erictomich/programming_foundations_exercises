@@ -30,7 +30,33 @@ class Carrot implements Food {
         return this.description;
     }
 
+}
 
+class Beet implements Food {
+	private String name;
+	private int calories;
+	private String description;
+
+	public Beet() {
+		this.name = "Beet";
+		this.calories = 10;
+		this.description = "teste beet";
+	}
+	
+	@Override
+	public String getName() {
+		return this.name;
+	}
+	
+	@Override
+	public int getCalories() {
+		return this.calories;
+	}
+	
+	@Override
+	public String getDescription() {
+		return this.description;
+	}
 }
 
 public class Meal {

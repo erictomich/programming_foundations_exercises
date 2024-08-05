@@ -1,3 +1,9 @@
+# Learning framework MasteryDev
+
+"MasteryDev is a learning framework designed to enhance developers' skills and expertise in programming."
+
+"MasteryDev is a comprehensive learning framework that aims to elevate developers' programming skills and mastery through structured and advanced training modules."
+
 # Programming Foundations
 
 Welcome to the **Programming Foundations** repository! This project is a personal journey to study the fundamentals of programming. The aim is to explore various programming languages and concepts, such as design patterns, system design, APIs, and more. Alongside developing programming skills, this project also aims to improve English proficiency.

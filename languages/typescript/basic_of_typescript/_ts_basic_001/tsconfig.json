@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "target": "es5",                          // Versão alvo do JavaScript
+      "module": "commonjs",                     // Sistema de módulo
+      "strict": true,                           // Ativar todas as verificações rigorosas
+      "esModuleInterop": true,                  // Habilitar interoperabilidade ES6
+      "outDir": "./dist"                        // Pasta de saída para JavaScript compilado
+    },
+    "include": [
+      "./src/**/*"
+    ]
+  }
+  

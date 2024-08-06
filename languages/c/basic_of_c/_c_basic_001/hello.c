@@ -4,6 +4,7 @@
 int main() {
     char name[50];
     char second_name[70];
+    char home_place[100];
     
     printf("Hello, World!\n");
     
@@ -27,6 +28,13 @@ int main() {
     name[strcspn(name, "\n")] = '\0';
 
     printf("My name is %s %s\n\n", name, second_name);
+
+
+    printf("Where do you live? ");
+    fgets(home_place, sizeof(home_place), stdin);
+
+    printf("I live on %s \n\n", home_place);
+
 
     printf("Digite qualquer tecla para finalizar...");
     getchar();

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class BasicIO {
     public static void main(String[] args) {
         String name;
         String secondName;

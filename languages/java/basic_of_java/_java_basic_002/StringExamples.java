@@ -56,6 +56,16 @@ public class StringExamples {
         System.out.println("Sem espaços: '" + trimmed + "'");
 
         // 11. StringBuilder para Mutabilidade
+        /* 
+         * O StringBuilder em Java é útil para manipulação eficiente de strings,
+         * especialmente quando várias operações de concatenação, inserção, ou modificação são necessárias. 
+         * Ao contrário das strings, que são imutáveis, 
+         * o StringBuilder permite a alteração de texto sem criar novos objetos na memória, 
+         * o que melhora o desempenho e reduz o consumo de memória. 
+         * Ele é ideal para uso em loops e situações onde a performance é uma preocupação, 
+         * proporcionando métodos flexíveis para construir e modificar strings de forma eficiente.
+         * 
+         */
         StringBuilder sb = new StringBuilder("StringBuilder ");
         sb.append("é eficiente para ");
         sb.append("concatenar múltiplas ");
@@ -72,6 +82,12 @@ public class StringExamples {
         System.out.println("Número para String: " + numStr);
 
         // 14. Comparação Lexicográfica
+        /*
+         * A comparação lexicográfica é usada para determinar a ordem de duas strings com base na sequência alfabética dos caracteres,
+         * como em um dicionário. Em Java, o método compareTo() realiza essa comparação, retornando um valor negativo, 
+         * zero ou positivo para indicar se uma string é menor, igual ou maior que outra. 
+         * Essa técnica é útil para ordenar strings, fazer buscas e outras operações que dependem da ordem alfabética.
+         */
         int comparison = str1.compareTo(str2);
         int comparisonIgnoreCase = str1.compareToIgnoreCase("HELLO");
         System.out.println("Comparação lexicográfica: " + comparison);
@@ -82,6 +98,21 @@ public class StringExamples {
         boolean endsWith = str3.endsWith("World!");
         System.out.println("Começa com 'Hello': " + startsWith);
         System.out.println("Termina com 'World!': " + endsWith);
+
+        String url = "https://example.com";
+        if (url.startsWith("https://")) {
+            System.out.println("Conexão segura.");
+        }
+
+        String email = "usuario@gmail.com";
+        if (email.endsWith("@gmail.com")) {
+            System.out.println("Email do Gmail.");
+        }
+
+        String filename = "documento.txt";
+        if (filename.endsWith(".txt")) {
+            System.out.println("Este é um arquivo de texto.");
+        }
 
         // 16. Conversão de String para Caracteres
         char[] charArray = str1.toCharArray();
@@ -112,5 +143,9 @@ public class StringExamples {
         // 20. Join de Strings
         String joined = String.join(", ", "Java", "Python", "C++");
         System.out.println("Join de strings: " + joined);
+
+        String[] languages = {"Java", "Python", "C++"};
+        String joinedB = String.join(", ", languages);
+        System.out.println("Join de strings: " + joinedB);
     }
 }
